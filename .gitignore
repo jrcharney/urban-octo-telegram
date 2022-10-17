@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+.vscode
+.DS_Store
+
+# Prevent those Zone.Identifer files that are generated when copying stuff to WSL from showing up.
+# BTW, you can delete them. Simply `rm *Zone.Identifer`
+**/*Zone.Identifier
