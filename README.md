@@ -1,6 +1,8 @@
 # urban-octo-telegram
 
-Module 1 Challenge
+Module 1 Challenge: In this challenge, code is refactored.
+
+This project was deployed to https://jrcharney.github.io/urban-octo-telegram/Develop/
 
 ## User Story
 
